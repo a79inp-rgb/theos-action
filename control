@@ -1,0 +1,9 @@
+Package: com.asdhack.pubg42
+Name: ASD HACK Mod 4.2
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Premium Mod for PUBG 4.2
+Maintainer: asd
+Author: asd
+Section: Tweaks
